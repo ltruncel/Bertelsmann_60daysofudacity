@@ -1,6 +1,6 @@
 # Bertelsmann 60 Days of Udacity Challenge 
 
-This is my daily journey for the 60 day learning challenge of the Bertelsmann Data Track Scholarship where I pledged to code and/or work through my Foundations course content for at least 30 minutes every day.
+This is my daily journey for the 60 day learning challenge of the Bertelsmann Data Track Scholarship where I pledged to code and work through my Foundations course content for at least 30 minutes every day.
 
 
 ## Day 1
