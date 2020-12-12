@@ -2,7 +2,7 @@
 
 This is my daily journey for the 60 day learning challenge of the Bertelsmann Data Track Scholarship with Udacity where I pledged to code and work through my Foundations course content for at least 30 minutes every day. I began on December 10, 2020. <br>
 
-![LT Scholarship Badge](/images/D0_Bertelsmann_Scholarship_LT.png)
+![LT Scholarship Badge](/images/D0_Bertelsmann_Scholarship_LauraT.png)
 
 ## Day 1
 
