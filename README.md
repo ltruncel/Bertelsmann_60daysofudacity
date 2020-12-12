@@ -28,14 +28,15 @@
 :cherry_blossom: Today I began with the data rich problems. There are two types of data-rich problems are numeric and non-numeric problems, depending on the desired outcomes.<br>  
   - Models predicting numeric outcomes are called regression models.
   - Models predicting non-numeric outcomes are classification models.<br>
-
+  
 
 :cherry_blossom: Numeric models can be continuous, time-based, or count: <br>
 
 ![Numeric Variables](/images/D3_numeric_variables.png)<br>
 
-:cherry_blossom: Non-numeric models can be binary or non-binary.
+:cherry_blossom: Non-numeric models can be binary or non-binary.<br>
 
+:cherry_blossom: I also completed the quizzes at the end of the lesson and thus concluded Lesson 2.
 
 
 
