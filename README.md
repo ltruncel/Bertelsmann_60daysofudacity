@@ -13,5 +13,9 @@ This is my daily journey for the 60 day learning challenge of the Bertelsmann Da
 
 ## Day 2
 :cherry_blossom: I completed the first half of Lesson 2. It began with the methodology map, which helps to determine the right methodology for a variety of business problems. <br>
+:cherry_blossom: Non-Predictive Analysis has four categories: Geospatial, Segmentation, Aggregation, and Descriptive. <br>
+:cherry_blossom: Predictive business problems can be data rich or data poor. <br>
+:cherry_blossom: If there is not sufficient usable data to solve the problem, we'll need to set up an experiment to help us get the data we need, which is called the A/B Test. <br>
+
 ![Methodology Map](/images/D2_methodology_map.jpg)<br>
 
