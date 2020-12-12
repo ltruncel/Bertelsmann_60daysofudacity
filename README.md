@@ -7,4 +7,4 @@ This is my daily journey for the 60 day learning challenge of the Bertelsmann Da
 :cherry_blossom: I made the pledge and reviewed lesson 1. Let's start! <br>
 :cherry_blossom: The core of this lesson is the problem solving framework, which involves the understanding of business issues and data, data preparation, modeling, validation, and visualization. <br>
 
-![The Problem Solving Framework](/images/D1_framework_medium.png)
+![The Problem Solving Framework](/images/D1_framework_small.png)
