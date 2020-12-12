@@ -16,6 +16,7 @@ This is my daily journey for the 60 day learning challenge of the Bertelsmann Da
 :cherry_blossom: Non-Predictive Analysis has four categories: Geospatial, Segmentation, Aggregation, and Descriptive. <br>
 :cherry_blossom: Predictive business problems can be data rich or data poor. <br>
 :cherry_blossom: If there is not sufficient usable data to solve the problem, we'll need to set up an experiment to help us get the data we need, which is called the A/B Test. <br>
+:cherry_blossom: There's more to it. See my updates for tomorrow!
 
 ![Methodology Map](/images/D2_methodology_map.jpg)<br>
 
