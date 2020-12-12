@@ -31,7 +31,7 @@
 
 :cherry_blossom: Numeric models can be continuous, time-based, or count: <br>
 
-![Methodology Map](/images/D3_types of numeric_variables.png)<br>
+![Numeric Variables](/images/D3_numeric_variables.png)<br>
 
 
   
