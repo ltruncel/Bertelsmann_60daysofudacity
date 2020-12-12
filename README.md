@@ -4,12 +4,14 @@ This is my daily journey for the 60 day learning challenge of the Bertelsmann Da
 
 
 ## Day 1
+
 :cherry_blossom: I made the pledge and reviewed lesson 1. Let's start! <br>
 :cherry_blossom: The core of this lesson is the problem solving framework, which involves the understanding of business issues and data, data preparation, modeling, validation, and visualization. <br>
 
-![The Problem Solving Framework](/images/D1_framework.png)
+![The Problem Solving Framework](/images/D1_framework.png)<br>
+
 
 ## Day 2
 :cherry_blossom: I completed the first half of Lesson 2. It began with the methodology map, which helps to determine the right methodology for a variety of business problems. <br>
-![Methodology Map](/images/D2_methodology_map.jpg)
+![Methodology Map](/images/D2_methodology_map.jpg)<br>
 
