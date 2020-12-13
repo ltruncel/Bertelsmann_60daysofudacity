@@ -7,7 +7,7 @@
 
 ![LT Scholarship Badge](/images/D0_Bertelsmann_Scholarship_LauraT.jpg)
 
-## Day 1
+## Day 1 
 
 :cherry_blossom: I made the pledge and reviewed lesson 1. Let's start! <br>
 
@@ -16,7 +16,8 @@
 ![The Problem Solving Framework](/images/D1_framework.png)<br>
 
 
-## Day 2
+## Day 2 
+
 :cherry_blossom: I completed the first half of Lesson 2. It began with the methodology map, which helps to determine the right methodology for a variety of business problems. <br>
 
 :cherry_blossom: Non-Predictive Analysis has four categories: Geospatial, Segmentation, Aggregation, and Descriptive. <br>
@@ -29,7 +30,8 @@
 
 ![Methodology Map](/images/D2_methodology_map.jpg)<br>
 
-## Day 3
+## Day 3 
+
 :cherry_blossom: Today I began with the data rich problems. There are two types of data-rich problems, numeric and non-numeric, depending on the desired outcomes.<br>  
   - Models predicting numeric outcomes are called regression models.
   - Models predicting non-numeric outcomes are classification models.<br>
@@ -43,6 +45,10 @@
 
 :cherry_blossom: I also completed the quizzes at the end of the lesson and thus concluded Lesson 2.
 
+
+## Day 3 
+
+:cherry_blossom: I began Lesson 3 by analyzing a business problem, where we need to determine whether we have enough capacity on the support team to handle the support tickets from the new customer, and if not, how many people we would need to add to reach the desired capacity.   
 
 
 
