@@ -30,7 +30,7 @@
 ![Methodology Map](/images/D2_methodology_map.jpg)<br>
 
 ## Day 3
-:cherry_blossom: Today I began with the data rich problems. There are two types of data-rich problems are numeric and non-numeric problems, depending on the desired outcomes.<br>  
+:cherry_blossom: Today I began with the data rich problems. There are two types of data-rich problems, numeric and non-numeric, depending on the desired outcomes.<br>  
   - Models predicting numeric outcomes are called regression models.
   - Models predicting non-numeric outcomes are classification models.<br>
   
