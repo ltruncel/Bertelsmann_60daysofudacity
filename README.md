@@ -56,7 +56,9 @@
 
 The answer to this problem is that we should use a continuous model.
 
-:cherry_blossom: The next unit is about linear regression. 
+:cherry_blossom: I also completed the unit about linear regression. 
+
+![Linear Regression](/images/D4_linear_regression.png)
 
 
 
