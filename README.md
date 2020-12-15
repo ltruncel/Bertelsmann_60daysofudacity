@@ -86,5 +86,7 @@ The answer to this problem is that we should use a continuous model.
 
 ![RSQ in Google Sheet](/images/D6_rsq_google_sheet.png)
 
+:cherry_blossom: You can do the same in excel as well.  I completed a sample exercise using excel, as shown below:
 
+![Excel Exercise](/images/D6_excel_exercise.png)
   
