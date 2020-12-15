@@ -1,6 +1,6 @@
 # Bertelsmann 60 Days of Udacity Challenge 
 
-### Hi! My name is Laura Truncellito. This is a record of my 60-day learning challenge for the Bertelsmann Data Track Scholarship where I pledged to code and work through my Foundations course content for at least 30 minutes every day. I began on December 10, 2020. <br>
+### Greetigns from LauraT! This is a record of my 60-day learning challenge for the Bertelsmann Data Track Scholarship where I pledged to code and work through my Foundations course content for at least 30 minutes every day. I began on December 10, 2020. <br>
 
 <i> Image Credits: Unless otherwise mentioned, images included in the challenges are from the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics Nanodegree Program by Udacity</i> <br>
 
