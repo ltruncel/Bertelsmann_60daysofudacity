@@ -89,4 +89,7 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: You can do the same in excel as well.  I completed a sample exercise using excel, as shown below:
 
 ![Excel Exercise](/images/D6_excel_exercise.png)
+
+:cherry_blossom: The concept of multiple linear regression is the same, just with more independent variables. 
   
+![Multiple Linear Regression](/images/D6_multiple_linear_regression.png)
