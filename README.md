@@ -64,6 +64,18 @@ The answer to this problem is that we should use a continuous model.
 
 ## Day 5 - 12.14.20 
 
-:cherry_blossom: I continue to work on the unit about linear regression. We can use a simple Google sheet to calculate slope and interception to learn about the relation of x and y. 
+:cherry_blossom: I continue to work on the unit about linear regression. We can use a simple Google sheet to calculate slope and interception to learn about the relation of x and y. To know whether the linear expression we calculated a good fit of our data, we use the correlation function CORREL(data_y, data_x) to calculate the correlation r between the target and predictor variable. The range of r is from -1 to +1. The closer r is to plus or minus 1, the higher the correlation between x and y. <br>
+
+![Google Sheet](/images/D5_r_google_sheet.png)
+
+:cherry_blossom: In addition to know how well the data fits our line. we would also want to know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
+- closer to 1: nearly all variance in the target variable is explained by the model
+- closer to 0: nearly none of the variance in the target variable is explained by the model.
+
+![R Squared](/images/D5_r_squared.png)
+
+*more info on R-squared:*
+(https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
+
 
   
