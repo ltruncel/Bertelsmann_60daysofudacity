@@ -78,4 +78,11 @@ The answer to this problem is that we should use a continuous model.
 (https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
 
 
+## Day 6 - 12.15.20 
+
+:cherry_blossom: R-swuared can be easily calculated by the command rsq in Google sheet:
+
+
+
+
   
