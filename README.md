@@ -83,6 +83,7 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: R-swuared can be easily calculated by the command rsq in Google sheet:
 
 
+![RSQ in Google Sheet](/images/D6_rsq_google_sheet.png)
 
 
   
