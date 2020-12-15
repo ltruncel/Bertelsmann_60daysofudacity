@@ -71,6 +71,7 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: In addition to know how well the data fits our line. we would also want to know how good the formula is at approximating the data by calculating the coefficient of determination, or r-squared. R-squared is a coefficient between 0 and 1.
 - closer to 1: nearly all variance in the target variable is explained by the model
 - closer to 0: nearly none of the variance in the target variable is explained by the model.
+- In general: above 0.7 are considered strong and below 0.3 are considered weak.
 
 ![R Squared](/images/D5_r_squared.png)
 
