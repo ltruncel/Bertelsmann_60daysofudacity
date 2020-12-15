@@ -62,6 +62,8 @@ The answer to this problem is that we should use a continuous model.
 
 
 
+## Day 5 - 12.14.20 
 
+:cherry_blossom: I continue to work on the unit about linear regression. We can use a simple Google sheet to calculate slope and interception to learn about the relation of x and y. 
 
   
