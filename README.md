@@ -93,3 +93,5 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: The concept of multiple linear regression is the same, just with more independent variables. 
   
 ![Multiple Linear Regression](/images/D6_multiple_linear_regression.png)
+
+:cherry_blossom: I also read about extracting data from a database using SQL: https://medium.com/swlh/searching-through-a-database-52eaaf64f89c
