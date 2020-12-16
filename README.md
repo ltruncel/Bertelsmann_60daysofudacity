@@ -81,7 +81,7 @@ The answer to this problem is that we should use a continuous model.
 
 ## Day 6 - 12.15.20 
 
-:cherry_blossom: R-swuared can be easily calculated by the function RSQ(data_y, data_x) in Google Sheets:
+:cherry_blossom: More about linear regression today. R-squared can be easily calculated by the function RSQ(data_y, data_x) in Google Sheets:
 
 
 ![RSQ in Google Sheet](/images/D6_rsq_google_sheet.png)
