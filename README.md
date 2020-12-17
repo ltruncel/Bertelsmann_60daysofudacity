@@ -95,3 +95,22 @@ The answer to this problem is that we should use a continuous model.
 ![Multiple Linear Regression](/images/D6_multiple_linear_regression.png)
 
 :cherry_blossom: I also read about extracting data from a database using SQL: https://medium.com/swlh/searching-through-a-database-52eaaf64f89c
+
+
+## Day 7 - 12.16.20 
+
+:cherry_blossom: Today the focus is on steps for performing multiple linear regression in Excel. <br>
+
+:cherry_blossom: The first step is to prepare and understand your data. Given any data set, we need to make sure that the data is clean and not biased. <br>
+
+:cherry_blossom: Using the same example, we'll use the Number of Employees and Value of Contract to initially build our multiple linear regression model. <br>
+
+:cherry_blossom: The steps to do this in Excel are as follows: <br>
+
+- Install Analysis ToolPak Add-In. <br> 
+- In Excel, select Data Analysis. Select Regression in the Pop-up window and select OK.
+- The Y range is the target variable (Average Number of Tickets). The Input X Range should be the range of data of your predictor variables (the Number of Employees AND the Value of the Contract).  The reason we are selecting both is that they each show potential to have a linear relationship between the Average Number of Tickets.
+
+:cherry_blossom: Click OK to run the model and see the results. We can quickly see our coefficients of the linear equation.
+
+
