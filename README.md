@@ -113,4 +113,5 @@ The answer to this problem is that we should use a continuous model.
 
 :cherry_blossom: Click OK to run the model and see the results. We can quickly see our coefficients of the linear equation.
 
+:cherry_blossom: I learned about Alteryx Designer: https://www.youtube.com/watch?v=8kUPNSBHCxo
 
