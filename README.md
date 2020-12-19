@@ -123,5 +123,10 @@ The answer to this problem is that we should use a continuous model.
 - As more variables are included, we should use the adjusted r-squared value. This is because the more variables that are included, the higher the r-squared value will be, even if there is no relationship between the additional variables and the target variable. Namely, this is an attempt to account for the phenomenon of the R2 automatically and spuriously increasing when extra explanatory variables are added to the model. See more info [here](https://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2).
 
 
+## Day 9 - 12.18.20 
+
+:cherry_blossom: 
+
+
 
 
