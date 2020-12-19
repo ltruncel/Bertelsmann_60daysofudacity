@@ -128,7 +128,7 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: I completed an exercie of multiple linear regression in Excel. :smile: <br>
 ![multiple_linear_regression_exercise](/images/D9_multiple_linear_regression_exercise.png) <br>
 
-:cherry_blossom: For categorial variables, we DO NOT just asisgn ordinal numbers (like 1, 2, 3, 4) to each category because that would result in skewed results. A better way of using categorical variables in regression is to use **dummy variables** (0 or 1).  To represent n categories, we would need n-1 dummy variables. <br>
+:cherry_blossom: For categorial variables, we DO NOT just assign ordinal numbers (like 1, 2, 3, 4) to each category because that would result in skewed results. A better way of using categorical variables in regression is to use **dummy variables** (0 or 1).  To represent n categories, we would need n-1 dummy variables. <br>
 
 :cherry_blossom: I downloaded Alteryx but encountered challenges when trying to install it via Virtual Box onto my Mac. Will try again. <br>
 
