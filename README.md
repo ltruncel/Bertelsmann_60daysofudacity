@@ -132,6 +132,6 @@ The answer to this problem is that we should use a continuous model.
 
 :cherry_blossom: I downloaded Alteryx but encountered challenges when trying to install it via Virtual Box onto my Mac. Will try again. <br>
 
-:cherry_blossom: I read about free data science tools for Alteryx [here] (https://community.alteryx.com/t5/Data-Science/Free-Data-Science-Tools-for-Designer-A-Gallery-Tour/ba-p/669590).
+:cherry_blossom: I read about free data science tools for Alteryx [here](https://community.alteryx.com/t5/Data-Science/Free-Data-Science-Tools-for-Designer-A-Gallery-Tour/ba-p/669590).
 
 
