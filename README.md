@@ -120,14 +120,18 @@ The answer to this problem is that we should use a continuous model.
 
 :cherry_blossom: I learned more about special cases for multiple linear regression today: 
 - For categorial variables, we can't really use a scatterplot or any other graph to see whether a linear relationship exists.  The best way to deal with this is to run the categorical variables through the regression model and see if the coefficients turn out to be significant with a high multiple-R-squared.  If there is a linear relationship, then the coefficients should be significant (0.7 or above). <br>
-- As more variables are included, we should use the adjusted r-squared value. This is because the more variables that are included, the higher the r-squared value will be, even if there is no relationship between the additional variables and the target variable. Namely, this is an attempt to account for the phenomenon of the R2 automatically and spuriously increasing when extra explanatory variables are added to the model. See more info [here](https://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2).
+- As more variables are included, we should use the adjusted r-squared value. This is because the more variables that are included, the higher the r-squared value will be, even if there is no relationship between the additional variables and the target variable. Namely, this is an attempt to account for the phenomenon of the R2 automatically and spuriously increasing when extra explanatory variables are added to the model. See more info [here](https://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2). <br>
 
 
 ## Day 9 - 12.18.20 
 
-:cherry_blossom: I completed an exercie of multiple linear regression in Excel. :smile:
-![multiple_linear_regression_exercise](/images/D9_multiple_linear_regression_exercise.png)
+:cherry_blossom: I completed an exercie of multiple linear regression in Excel. :smile: <br>
+![multiple_linear_regression_exercise](/images/D9_multiple_linear_regression_exercise.png) <br>
 
+:cherry_blossom: For categorial variables, we DO NOT just asisgn ordinal numbers (like 1, 2, 3, 4) to each category because that would result in skewed results. A better way of using categorical variables in regression is to use **dummy variables** (0 or 1).  To represent n categories, we would need n-1 dummy variables. <br>
 
+:cherry_blossom: I downloaded Alteryx but encountered challenges when trying to install it via Virtual Box onto my Mac. Will try again. <br>
+
+:cherry_blossom: I read about free data science tools for Alteryx [here] (https://community.alteryx.com/t5/Data-Science/Free-Data-Science-Tools-for-Designer-A-Gallery-Tour/ba-p/669590).
 
 
