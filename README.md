@@ -113,5 +113,15 @@ The answer to this problem is that we should use a continuous model.
 
 :cherry_blossom: Click OK to run the model and see the results. We can quickly see our coefficients of the linear equation.
 
-:cherry_blossom: I learned about Alteryx Designer: https://www.youtube.com/watch?v=8kUPNSBHCxo
+:cherry_blossom: I learned about Alteryx Designer: https://www.youtube.com/watch?v=8kUPNSBHCxo <br>
+
+
+## Day 8 - 12.17.20 
+
+:cherry_blossom: I learned more about special cases for multiple linear regression today: 
+- For categorial variables, we can't really use a scatterplot or any other graph to see whether a linear relationship exists.  The best way to deal with this is to run the categorical variables through the regression model and see if the coefficients turn out to be significant with a high multiple-R-squared.  If there is a linear relationship, then the coefficients should be significant (0.7 or above). <br>
+- As more variables are included, we should use the adjusted r-squared value. This is because the more variables that are included, the higher the r-squared value will be, even if there is no relationship between the additional variables and the target variable. Namely, this is an attempt to account for the phenomenon of the R2 automatically and spuriously increasing when extra explanatory variables are added to the model. See more info [here](https://en.wikipedia.org/wiki/Coefficient_of_determination#Adjusted_R2).
+
+
+
 
