@@ -125,7 +125,8 @@ The answer to this problem is that we should use a continuous model.
 
 ## Day 9 - 12.18.20 
 
-:cherry_blossom: 
+:cherry_blossom: I completed an exercie of multiple linear regression in Excel. :smile:
+![multiple_linear_regression_exercise](D9_multiple_linear_regression_exercise.png)
 
 
 
