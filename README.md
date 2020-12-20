@@ -152,7 +152,7 @@ As you can see, several key panels include:
 - The configuration panel (where you select the configurations you want for each tool)
 - The Canvas (where you place and connect the tools.) <br>
 
-:cherry_blossom: Inspired by fellow scholars, I began this [SQL tutorial](https://www.w3schools.com/sql/default.asp)
+:cherry_blossom: Inspired by fellow scholars, I began this [SQL tutorial](https://www.w3schools.com/sql/default.asp).
 
 
 
