@@ -135,3 +135,9 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: I read about free data science tools for Alteryx [here](https://community.alteryx.com/t5/Data-Science/Free-Data-Science-Tools-for-Designer-A-Gallery-Tour/ba-p/669590).
 
 
+## Day 10 - 12.19.20 
+
+:cherry_blossom: I spent a fair amount of time trying to figure out how to install Alteryx onto my Mac.  It turns out it's not enough to have a Virtual Box.  You would need to have Windows installed in the VirtualBox (or other VMs such as VMWare or Parallels).  I'm installing Windows 10 Development Environment from [here](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/). Hopefully this will work. 
+
+:cherry_blossom: In the meantime, I proceed with the 
+
