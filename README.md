@@ -145,7 +145,7 @@ The answer to this problem is that we should use a continuous model.
 - perform analytics (predictive, statistical and spatial).
 
 The interface looks like this:
-
+![D10_alteryx_intro](/images/D10_alteryx_intro.gif)
 
 
 
