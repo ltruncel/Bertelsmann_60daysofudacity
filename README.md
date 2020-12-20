@@ -142,10 +142,17 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: Alteryx is a data analytics tool with the ability to prep, blend, and analyze data using a repeatable workflow, then deploy and share analytics at scale. It allow analysts to:
 - connect to and cleanse data from data warehouses, cloud applications, spreadsheets, and other sources;
 - join data together;
-- perform analytics (predictive, statistical and spatial).
+- perform analytics (predictive, statistical and spatial). <br>
 
 The interface looks like this:
-![D10_alteryx_intro](/images/D10_alteryx_intro.gif)
+![D10_alteryx_intro](/images/D10_alteryx_intro.gif) <br>
+
+As you can see, several key panels include:
+- The Tools (such as input data, output data...etc. You can drag them onto the canvas)
+- The configuration panel (where you select the configurations you want for each tool)
+- The Canvas (where you place and connect the tools.) <br>
+
+:cherry_blossom: Inspired by fellow scholars, I began this [SQL tutorial](https://www.w3schools.com/sql/default.asp)
 
 
 
