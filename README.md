@@ -155,6 +155,9 @@ As you can see, several key panels include:
 :cherry_blossom: Inspired by fellow scholars, I began this [SQL tutorial](https://www.w3schools.com/sql/default.asp).
 
 
+## Day 11 - 12.20.20 
+
+:cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). 
 
 
 
