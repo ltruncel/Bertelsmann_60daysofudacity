@@ -159,5 +159,5 @@ As you can see, several key panels include:
 
 :cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). 
 
-
+![D11_Windows _VM](/images/D11_Windows _VM.png)
 
