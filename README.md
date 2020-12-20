@@ -157,11 +157,14 @@ As you can see, several key panels include:
 
 ## Day 11 - 12.20.20 
 
-:cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). <br>
+:cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). It took me about 2 hours to download all requirements and install them. <br>
 
 ![D11_Windows_VM](/images/D11_Windows_VM.png)
 
-:cherry_blossom: As it turns out, working in a Windows Environment via VirtualBox on an external drive is simply too slow. I started over again, using VMware this time. 
+:cherry_blossom: As it turns out, working in a Windows Environment via VirtualBox on an external drive is simply too slow. I started over again, using VMware and following [this instruction](https://www.youtube.com/watch?v=mtxtqw95484&feature=emb_logo). (Thanks to fellow scholar @Serkan KAYA for the tip!) <br>
 
+:cherry_blossom: While I'm waiting, I read a guide for [CRISP-DM: Cross-Industry Standard Process for Data Mining](https://medium.com/analytics-vidhya/a-beginners-guide-to-industry-standard-process-of-data-mining-crisp-dm-c1d7d50e57c3).  The upshot is that we need to undertand the business problem and the data before preparing and modeling it. After the models are generated, they need to be assessed and determine their effectiveness in solving the business problems. During deployment, the results are used to provide insights for informed business decisions.
+
+:cherry_blossom: At the end of this post I'm still waiting to download the Windows 10 disk image (an iso file) in order to finish the installaiton. There's mroe work later tonight. Wish me luck! 
 
 
