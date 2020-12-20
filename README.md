@@ -142,7 +142,11 @@ The answer to this problem is that we should use a continuous model.
 :cherry_blossom: Alteryx is a data analytics tool with the ability to prep, blend, and analyze data using a repeatable workflow, then deploy and share analytics at scale. It allow analysts to:
 - connect to and cleanse data from data warehouses, cloud applications, spreadsheets, and other sources;
 - join data together;
-- perform analytics; 
+- perform analytics (predictive, statistical and spatial).
+
+The interface looks like this:
+
+
 
 
 
