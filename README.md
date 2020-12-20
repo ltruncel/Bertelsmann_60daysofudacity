@@ -161,5 +161,7 @@ As you can see, several key panels include:
 
 ![D11_Windows_VM](/images/D11_Windows_VM.png)
 
+:cherry_blossom: As it turns out, working in a Windows Environment via VirtualBox on an external drive is simply too slow. I started over again, using VMware this time. 
+
 
 
