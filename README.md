@@ -157,7 +157,9 @@ As you can see, several key panels include:
 
 ## Day 11 - 12.20.20 
 
-:cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). 
+:cherry_blossom: The installation challenge continues as I'm trying to install it on an external hard drive (my Mac HD is too small). <br>
 
-![D11_Windows _VM](/images/D11_Windows _VM.png)
+![D11_Windows_VM](/images/D11_Windows_VM.png)
+
+
 
