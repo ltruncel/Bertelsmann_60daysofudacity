@@ -167,4 +167,10 @@ As you can see, several key panels include:
 
 :cherry_blossom: At the end of this post I'm still waiting to download the Windows 10 disk image (an iso file) in order to finish the installaiton. There's more work later tonight. Wish me luck! 
 
+## Day 12 - 12.21.20 
 
+:cherry_blossom: I was finally able to install Alteryx onto my Mac (actually in a Windows environment via VMWare); I'm overjoyed! <br>
+
+:cherry_blossom: Once I have Alteryx, it's smooth sailing from here. I completed a tutorial, and the completed a sample workflow.
+
+![D11_Windows_VM](/images/D11_Windows_VM.png)
