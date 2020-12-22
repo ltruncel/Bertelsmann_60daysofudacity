@@ -173,4 +173,6 @@ As you can see, several key panels include:
 
 :cherry_blossom: Once I have Alteryx, it's smooth sailing from here. I completed a tutorial, and the completed a sample workflow.
 
-![D11_Windows_VM](/images/D11_Windows_VM.png)
+![D12_tutorial](/images/D12_tutorial.png) <br>
+
+![D12_sample_workflow](/images/D12_sample_workflow.jpg) <br>
