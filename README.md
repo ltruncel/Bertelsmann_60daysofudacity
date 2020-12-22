@@ -169,7 +169,7 @@ As you can see, several key panels include:
 
 ## Day 12 - 12.21.20 
 
-:cherry_blossom: I was finally able to install Alteryx onto my Mac (actually in a Windows environment via VMWare); I'm overjoyed! <br>
+:cherry_blossom: I was finally able to install Alteryx onto my Mac (actually in a Windows environment via VMWare); I was overjoyed! <br>
 
 :cherry_blossom: It was smooth sailing once I had Alteryx installed. I completed a tutorial, and the completed a sample workflow.
 
