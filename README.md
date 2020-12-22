@@ -177,9 +177,9 @@ As you can see, several key panels include:
 
 ![D12_sample_workflow](/images/D12_sample_workflow.png) <br>
 
-*source: Alteryx Tutorial*
+*source: Alteryx Tutorial* <br>
 
-:cherry_blossom: Today is #MotivationMonday in our Slack community and we were encouraged to share what motivates us.  This is what I shared: For me it’s a sense of purpose. My desire to help others and to make this world a better place is what keeps me going. :fire:
+:cherry_blossom: Today is #MotivationMonday in our Slack community and we were encouraged to share what motivates us.  This is what I shared: For me it’s a sense of purpose. My desire to help others and to make this world a better place is what keeps me going. :fire: <br>
 
-![D12_sample_workflow](/images/D12_maya_angelou.jpg)
-*source: Maya Angelou*
+![D12_sample_workflow](/images/D12_maya_angelou.jpg) <br>
+*source: Maya Angelou* <br>
