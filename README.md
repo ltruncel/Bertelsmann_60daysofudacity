@@ -171,8 +171,12 @@ As you can see, several key panels include:
 
 :cherry_blossom: I was finally able to install Alteryx onto my Mac (actually in a Windows environment via VMWare); I'm overjoyed! <br>
 
-:cherry_blossom: Once I have Alteryx, it's smooth sailing from here. I completed a tutorial, and the completed a sample workflow.
+:cherry_blossom: It was smooth sailing once I had Alteryx installed. I completed a tutorial, and the completed a sample workflow.
 
 ![D12_tutorial](/images/D12_tutorial.png) <br>
 
 ![D12_sample_workflow](/images/D12_sample_workflow.png) <br>
+
+:cherry_blossom: Today is #MotivationMonday in our Slack community and we were encouraged to share what motivates us.  This is what I shared: For me it’s a sense of purpose. My desire to help others and to make this world a better place is what keeps me going. :fire:
+
+
