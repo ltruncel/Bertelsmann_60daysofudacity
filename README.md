@@ -175,4 +175,4 @@ As you can see, several key panels include:
 
 ![D12_tutorial](/images/D12_tutorial.png) <br>
 
-![D12_sample_workflow](/images/D12_sample_workflow.jpg) <br>
+![D12_sample_workflow](/images/D12_sample workflow.png) <br>
