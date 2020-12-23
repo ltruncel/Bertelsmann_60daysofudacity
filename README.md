@@ -184,3 +184,7 @@ As you can see, several key panels include:
 
 ![D12_sample_workflow](/images/D12_maya_angelou.jpg) <br>
 *source: Maya Angelou* <br>
+
+## Day 13 - 12.22.20 
+
+:cherry_blossom: Today I built my first model in Alteryx.
