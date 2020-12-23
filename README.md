@@ -188,3 +188,5 @@ As you can see, several key panels include:
 ## Day 13 - 12.22.20 
 
 :cherry_blossom: Today I built my first model in Alteryx.
+
+![D13_treat_yourself_tuesday](/images/LT-treatyourselftuesday.jpeg)
