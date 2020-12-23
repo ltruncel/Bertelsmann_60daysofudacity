@@ -187,8 +187,11 @@ As you can see, several key panels include:
 
 ## Day 13 - 12.22.20 
 
-:cherry_blossom: Today I built my first model in Alteryx. <br>
+:cherry_blossom: Today I built my first model (a linear regression model) in Alteryx. <br>
 
 
-:cherry_blossom: Today is TreatYourselfTuesday. I treated myself with a hot cup of lemon myrtle green tea. :woman_in_lotus_position::skin-tone-2::relaxed::tea:
-![D13_treat_yourself_tuesday](/images/LT-treatyourselftuesday.jpeg)
+:cherry_blossom: Today is TreatYourselfTuesday. I treated myself with a hot cup of lemon myrtle green tea.:relaxed::tea: <br>
+
+![D13_treat_yourself_tuesday](/images/LT-treatyourselftuesday.jpeg) <br>
+
+
