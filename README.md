@@ -195,4 +195,12 @@ As you can see, several key panels include:
 
 ![D13_treat_yourself_tuesday](/images/LT-treatyourselftuesday.jpeg) <br>
 
+## Day 14 - 12.23.20 
 
+:cherry_blossom: I completed an exercise on the regression model I worked on yesterday and also completed the remainder of the Lesson. :smiley: <br>
+
+:cherry_blossom: To be able to successfully interpret a regression model, it's worth a refresher of statistics:
+
+- P-value: A p-value is the probability that observed results (the coefficient estimate) occurred by chance.  The lower the p-value the higher the probability that a relationship exists between the predictor and target variable. When a predictor variable has a p-value < 0.05, the relationship between it and the target variable is considered to be statistically significant.<br> 
+
+- R-Squared: It represents the amount of variation in the target variable explained by the variation in the predictor variables.  The higher the r-squared, the higher the explanatory power of the model. 
