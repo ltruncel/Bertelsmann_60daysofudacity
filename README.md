@@ -204,3 +204,12 @@ As you can see, several key panels include:
 - P-value: A p-value is the probability that observed results (the coefficient estimate) occurred by chance.  The lower the p-value the higher the probability that a relationship exists between the predictor and target variable. When a predictor variable has a p-value < 0.05, the relationship between it and the target variable is considered to be statistically significant.<br> 
 
 - R-Squared: It represents the amount of variation in the target variable explained by the variation in the predictor variables.  The higher the r-squared, the higher the explanatory power of the model. 
+
+
+## Day 15 - 12.24.20 
+
+:cherry_blossom: It's tough to get work done on Christmas Eve but I managed to review a playbook for [linear regression](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/5915face_linear-regression-playbook/linear-regression-playbook.pdf). <br>
+
+:cherry_blossom: I also began the practice project to predict diamond prices. <br>
+
+
