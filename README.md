@@ -220,7 +220,7 @@ I took a day off which is allowed according to the challenge rules [here](https:
 
 ## Day 16 - 12.26.20
 
-:cherry_blossom: I continued with the practice project. <br>
+:cherry_blossom: Today I continued with the practice project. <br>
 
 :cherry_blossom: Several new tools are worth noting:
 
