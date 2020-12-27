@@ -235,6 +235,6 @@ As you can see, several key panels include:
 
 :cherry_blossom: I began by learning a few ways to fix erros in Alteryx.  One of the tools to use is the **Select Tool**, which allows you to inspect the data type and fix any potential errors. <br>
 
+![D16_score_tool](/images/D17_select_tool.png)
 
-
-:cherry_blossom: 
+:cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values, 
