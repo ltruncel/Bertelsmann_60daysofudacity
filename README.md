@@ -235,6 +235,8 @@ As you can see, several key panels include:
 
 :cherry_blossom: I began by learning a few ways to fix erros in Alteryx.  One of the tools to use is the **Select Tool**, which allows you to inspect the data type and fix any potential errors. <br>
 
-![D16_score_tool](/images/D17_select_tool.png)
+![D17_select_tool](/images/D17_select_tool.png)
 
-:cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values, 
+:cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values. Another tool is the **Filter Tool**, which you can use to single out those null values and fix them. Alternatively, you can use the **Imputation Tool**, where you can replace the null values with average or other values. Lastly, the **Data Cleansing Tool**, which will replace the null values with blanks (for string fields) or 0 (for numeric fields) <br>
+
+![D17_other_tools](/images/D17_other_tools.png)
