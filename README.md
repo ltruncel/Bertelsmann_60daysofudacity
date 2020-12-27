@@ -234,7 +234,7 @@ As you can see, several key panels include:
 
 ## Day 17 - 12.27.20
 
-:cherry_blossom: I began by learning a few ways to fix erros in Alteryx.  One of the tools to use is the **Select Tool**, which allows you to inspect the data type and fix any potential errors. <br>
+:cherry_blossom: I learned about ways to fix errors in Alteryx.  One of the tools to use is the **Select Tool**, which allows you to inspect the data type and fix any potential errors. <br>
 
 ![D17_select_tool](/images/D17_select_tool.png) <br>
 
