@@ -237,6 +237,6 @@ As you can see, several key panels include:
 
 ![D17_select_tool](/images/D17_select_tool.png)
 
-:cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values. Another tool is the **Filter Tool**, which you can use to single out those null values and fix them. Alternatively, you can use the **Imputation Tool**, where you can replace the null values with average or other values. Lastly, the **Data Cleansing Tool**, which will replace the null values with blanks (for string fields) or 0 (for numeric fields) <br>
+:cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values. Another tool is the **Filter Tool**, which you can use to single out those null values and fix them. Alternatively, you can use the **Imputation Tool**, where you can replace the null values with average or other values. Lastly, the **Data Cleansing Tool** will replace the null values with blanks (for string fields) or 0 (for numeric fields) <br>
 
 ![D17_other_tools](/images/D17_other_tools.png)
