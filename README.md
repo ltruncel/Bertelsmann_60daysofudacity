@@ -231,7 +231,10 @@ As you can see, several key panels include:
 - Formula Tool: This tool is similar to the formulas you would use in a spreadsheet application. You can learn more about how this tool is used in Alteryx [here](https://help.alteryx.com/11.0/Reference/Functions.htm). <br>
 
 
+## Day 17 - 12.27.20
+
+:cherry_blossom: I began by learning a few ways to fix erros in Alteryx.  One of the tools to use is the **Select Tool**, which allows you to inspect the data type and fix any potential errors. <br>
 
 
 
-
+:cherry_blossom: 
