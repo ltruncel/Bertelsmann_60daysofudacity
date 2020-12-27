@@ -215,7 +215,8 @@ As you can see, several key panels include:
 
 ## Christmas Day - 12.25.20 
 
- decided to take a day off on Christmas Day which was OK according to the challenge rules [here](https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community/60-days-of-udacity). :christmas_tree: <br>
+
+:cherry_blossom: I decided to take a day off on Christmas Day which was OK according to the challenge rules [here](https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community/60-days-of-udacity). :christmas_tree: <br>
 
 
 ## Day 16 - 12.26.20
