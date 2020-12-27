@@ -213,7 +213,7 @@ As you can see, several key panels include:
 :cherry_blossom: I also began the practice project to predict diamond prices. <br>
 
 
-12.25.20 Christmas Day
+## 12.25.20 Christmas Day
 
  decided to take a day off on Christmas Day which was OK according to the challenge rules [here](https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community/60-days-of-udacity). :christmas_tree: <br>
 
