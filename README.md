@@ -226,7 +226,10 @@ I took a day off which is allowed according to the challenge rules [here](https:
 
 - Score Tool: This is a tool that determines the quality of the prediction model. We can use it to create scores for a model, which estimates the accuracy of the value predicted by the model. See more info about the score tool [here](https://help.alteryx.com/2018.2/Score.htm). Below is a screenshot of me practice using the score tool, which shows how it is conencted to the data icon and the linear regression icon: <br>
 
-![D16_score_tool](/images/D16_score_tool.png)
+![D16_score_tool](/images/D16_score_tool.png) <br>
+
+- Formula Tool: This tool is similar to the formulas you would use in a spreadsheet application. You can learn more about how this tool is used in Alteryx [here](https://help.alteryx.com/11.0/Reference/Functions.htm). <br>
+
 
 
 
