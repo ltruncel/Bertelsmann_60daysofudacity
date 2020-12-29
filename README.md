@@ -247,4 +247,4 @@ As you can see, several key panels include:
 
 :cherry_blossom: Today I worked on the practice project.  The goal of the project is to use a large database of diamond prices to build a model and predict the price of a diamond based on its attributes, which will be the basis for making recommendations to a jewelry company to decide how much it should bid on the diamonds. <br>
 
-:cherry_blossom: 
+:cherry_blossom: In the process of working on this project, I learned about the new [Alteryx Multi-threaded Processing (AMP)](https://help.alteryx.com/current/designer/alteryx-amp-engine).  AMP is a multi-threaded concept of processing your data in parallel packets.  It allows for faster processing of large volumes of data while maintaining the efficient use of resources.
