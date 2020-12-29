@@ -241,3 +241,10 @@ As you can see, several key panels include:
 :cherry_blossom: Another common Alteryx error is the null value. To fix this, add a **Field Summary Tool** before the data enter another tool.  This way you'll be able to see the missing values. Another tool is the **Filter Tool**, which you can use to single out those null values and fix them. Alternatively, you can use the **Imputation Tool**, where you can replace the null values with average or other values. Lastly, the **Data Cleansing Tool** will replace the null values with blanks (for string fields) or 0 (for numeric fields). <br>
 
 ![D17_other_tools](/images/D17_other_tools.png) <br>
+
+
+## Day 18 - 12.28.20
+
+:cherry_blossom: Today I worked on the practice project.  The goal of the project is to use a large database of diamond prices to build a model and predict the price of a diamond based on its attributes, which will be the basis for making recommendations to a jewelry company to decide how much it should bid on the diamonds. <br>
+
+:cherry_blossom: 
