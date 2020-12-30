@@ -251,7 +251,7 @@ As you can see, several key panels include:
 
 ## Day 19 - 12.29.20
 
-:cherry_blossom: I continued to work on the practice project in Lesson 4. In the process I read about the [select tool](https://help.alteryx.com/current/designer/dynamic-select-tool).  I try to resist the temptation of looking at the solution.  I also learned more about [configuration connection](https://help.alteryx.com/current/designer/connection-configuration) :smile:
+:cherry_blossom: I continued to work on the practice project in Lesson 4. In the process I read about the [select tool](https://help.alteryx.com/current/designer/dynamic-select-tool).  I try to resist the temptation of looking at the solution.  I also learned more about [configuration connection](https://help.alteryx.com/current/designer/connection-configuration). :smile:
 
 :cherry_blossom: The features of machine learning in Alteryx caught my eye and I basically spent the rest of my time here: https://help.alteryx.com/current/designer/machine-learning
 
