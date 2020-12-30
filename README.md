@@ -248,3 +248,10 @@ As you can see, several key panels include:
 :cherry_blossom: Today I worked on the practice project.  The goal of the project is to use a large database of diamond prices to build a model and predict the price of a diamond based on its attributes, which will be the basis for making recommendations to a jewelry company to decide how much it should bid on the diamonds. <br>
 
 :cherry_blossom: In the process of working on this project, I learned about the new [Alteryx Multi-threaded Processing (AMP)](https://help.alteryx.com/current/designer/alteryx-amp-engine).  AMP is a multi-threaded concept of processing your data in parallel packets.  It allows for faster processing of large volumes of data while maintaining efficient use of resources.
+
+## Day 19 - 12.29.20
+
+:cherry_blossom: I continued to work on the practice project in Lesson 4. In the process I read about the [select tool](https://help.alteryx.com/current/designer/dynamic-select-tool).  I try to resist the temptation of looking at the solution.  I also learned more about [configuration connection](https://help.alteryx.com/current/designer/connection-configuration) :smile:
+
+:cherry_blossom: The features of machine learning in Alteryx caught my eye and I basically spent the rest of my time here: https://help.alteryx.com/current/designer/machine-learning
+
