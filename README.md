@@ -255,3 +255,11 @@ As you can see, several key panels include:
 
 :cherry_blossom: The features of machine learning in Alteryx caught my eye and I basically spent the rest of my time here: https://help.alteryx.com/current/designer/machine-learning
 
+
+## Day 20 - 12.30.20
+
+:cherry_blossom: 
+
+:cherry_blossom: I read an article about [linear regression for data science](https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675)
+
+:cherry_blossom: I also read a review about [AI in 2020](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b) which is fitting for today. :smiley:
