@@ -258,8 +258,8 @@ As you can see, several key panels include:
 
 ## Day 20 - 12.30.20
 
-:cherry_blossom: 
+:cherry_blossom: I continued with the practice project.  In the process, I read about [The Scatterplot Tool](https://help.alteryx.com/current/designer/scatterplot-tool).
 
-:cherry_blossom: I read an article about [linear regression for data science](https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675)
+:cherry_blossom: I read an article about [linear regression for data science](https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675).
 
-:cherry_blossom: I also read a review about [AI in 2020](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b) which is fitting for today. :smiley:
+:cherry_blossom: I also read a review about [AI in 2020](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b) which is fitting for end of the yaer. :smiley:
