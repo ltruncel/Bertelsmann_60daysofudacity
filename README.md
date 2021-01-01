@@ -267,6 +267,8 @@ As you can see, several key panels include:
 
 ## Day 21 - 12.31.20
 
-:cherry_blossom: Still working on the practice project.  I created a scatterplot to see the initial relations between the carat and price.
+:cherry_blossom: Still working on the practice project.  I created a scatterplot to see the initial relations between the carat and price.  As you can see, there are other factors in addition to weight that determine the price of a diamond. I then used the linear regression tool and added all the variables to predict the price.<br>
 
 ![D21_scatterplot](/images/D21_scatterplot.png) <br>
+
+:cherry_blossom: Happy New Year! :fireworks:
