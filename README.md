@@ -263,3 +263,8 @@ As you can see, several key panels include:
 :cherry_blossom: I read an article about [linear regression for data science](https://towardsdatascience.com/an-introduction-to-linear-regression-for-data-science-9056bbcdf675).
 
 :cherry_blossom: I also read a review about [AI in 2020](https://medium.com/towards-artificial-intelligence/2020-a-year-full-of-amazing-ai-papers-a-review-c42fa07aff4b) which is fitting for end of the yaer. :smiley:
+
+
+## Day 21 - 12.31.20
+
+:cherry_blossom: Still working on the practice project.  I created a scatterplot to see the initial relations between the carat and price.
