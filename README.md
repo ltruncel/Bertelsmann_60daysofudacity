@@ -268,3 +268,5 @@ As you can see, several key panels include:
 ## Day 21 - 12.31.20
 
 :cherry_blossom: Still working on the practice project.  I created a scatterplot to see the initial relations between the carat and price.
+
+![D21_scatterplot](/images/D21_scatterplot.png) <br>
