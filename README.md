@@ -272,3 +272,9 @@ As you can see, several key panels include:
 ![D21_scatterplot](/images/D21_scatterplot.png) <br>
 
 :cherry_blossom: Happy New Year! :fireworks:
+
+## Day 22 - 1.1.21
+
+:cherry_blossom: Late post. I did the challenege yesterday but didn't get to post due to a medical emergency.  I tested out differrent predictive variables and looked at the results.
+
+![D22_scatterplot](/images/D22_test_sample.png) <br>
