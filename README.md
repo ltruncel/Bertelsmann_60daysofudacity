@@ -298,7 +298,7 @@ As you can see, several key panels include:
 
 ![D24_practice_final](/images/D24_practice_final.png)
 
-Here is a scatterplot for carat vs score. As you can see, the relation is now tigher:
+Here is a scatterplot for carat vs score. As you can see, the relation is now tighter:
 
 ![D24_practice_final](/images/D24_carat_score.png)
 
