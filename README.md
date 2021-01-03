@@ -296,6 +296,15 @@ As you can see, several key panels include:
 
 :cherry_blossom: I ran the practice project again, with a cleaner connection:
 
+![D24_practice_final](/images/D24_practice_final.png)
+
+Here is a scatterplot for carat vs score. As you can see, the relation is now tigher:
+
+![D24_practice_final](/images/D24_carat_score.png)
+
+
+:cherry_blossom: I began working on the optional project: predicting catalog demand. :blush:
+
 
 
 
