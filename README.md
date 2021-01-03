@@ -289,6 +289,6 @@ As you can see, several key panels include:
 - Apply our model to the batch of 3,000 to make a prediction and recommendation.
 - Use the score tool and bring in the new_diamonds data set.
 - Bring in a summarize tool to add all the predicted prices together. This gives us an estimate of the total retail value of the batch of 3,000 diamonds.
-- Come up with a bid price by mutiplying 0.7 to the estimate of the total retail value of the batch of 3,000 diamonds. Thus we've completed the project.  
+- Come up with a bid price by multiplying 0.7 to the estimate of the total retail value of the batch of 3,000 diamonds. Thus we've completed the project.  
 
 
