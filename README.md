@@ -275,6 +275,20 @@ As you can see, several key panels include:
 
 ## Day 22 - 1.1.21
 
-:cherry_blossom: Late post. I did the challenege yesterday but didn't get to post due to a medical emergency.  I tested out differrent predictive variables and looked at the results.
+:cherry_blossom: Late post. I did the challenge yesterday but didn't get to post due to a medical emergency.  I tested out different predictive variables and looked at the results.
 
 ![D22_scatterplot](/images/D22_test_sample.png) <br>
+
+## Day 23 - 1.2.21
+
+:cherry_blossom: I wrapped up with the practice project and went through the sample solution walkthrough.  The first steps to solve this problem are as follows: 
+- Bring in the diamond data with an input tool. Use the select tool to check the relations between carat and price, if preferred.
+- Add the linear regression tool. Select price as the target variable and the remaining factors as predictive variables.
+- Check the p-values of predictive variables.  Disregard those that are not statistically significant. We want those with p-values that are <0.05.
+- Look at the adjusted R-squared. It's above 0.9 so it's good.
+- Apply our model to the batch of 3,000 to make a prediction and recommendation.
+- Use the score tool and bring in the new_diamonds data set.
+- Bring in a summarize tool to add all the predicted prices together. This gives us an estimate of the total retail value of the batch of 3,000 diamonds.
+- Come up with a bid price by mutiplying 0.7 to the estimate of the total retail value of the batch of 3,000 diamonds. Thus we've completed the project.  
+
+
