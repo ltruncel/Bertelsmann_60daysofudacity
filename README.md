@@ -302,8 +302,24 @@ Here is a scatterplot for carat vs score. As you can see, the relation is now ti
 
 ![D24_practice_final](/images/D24_carat_score.png)
 
+:cherry_blossom: I began working on the optional project: predicting catalog demand. :blush: <br>
 
-:cherry_blossom: I began working on the optional project: predicting catalog demand. :blush:
+
+## Day 25 - 1.4.21
+
+:cherry_blossom: I continued to work on the optional project.  Today I had a more comprehensive idea about how to tackle this problem.  To begin, the goal of the project is to predict how much money a company can expect to earn from sending out a catalog to new customers. To solve this problem, I would build a linear regression model and apply the results to this business problem. <br> 
+
+:cherry_blossom: The steps to take in order to solve the problems are as follows:
+- understand the business problem and the data available
+- analysis, modeling and validation
+- writeup
+
+I've downloaded and reviewed the data. More to go tomorrow.
+
+:cherry_blossom: I also read an article and learned more about [Tableau](https://medium.com/@priyankabhagat6392/getting-started-with-tableau-data-science-and-data-visualization-7c9e2af9e9ef).
+
+
+
 
 
 
