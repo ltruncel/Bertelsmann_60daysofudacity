@@ -319,7 +319,11 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: I also read an article and learned more about [Tableau](https://medium.com/@priyankabhagat6392/getting-started-with-tableau-data-science-and-data-visualization-7c9e2af9e9ef).
 
 
+## Day 26 - 1.5.21
 
+:cherry_blossom: I loaded the data into Alteryx and further examined the data. I reviewed the project [rubric](https://review.udacity.com/#!/rubrics/186/view) today. I also loaded the data into Alteryx.
+
+:cherry_blossom: I read a helpful article about [creating a portfolio for data science jobs](https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio?utm_source=Iterable&utm_medium=email&utm_campaign=10-days-of-data-6).
 
 
 
