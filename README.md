@@ -326,5 +326,17 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: I read a helpful article about [creating a portfolio for data science jobs](https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio?utm_source=Iterable&utm_medium=email&utm_campaign=10-days-of-data-6).
 
 
+## Day 27 - 1.6.21
+
+:cherry_blossom: Today I continued to work on the optional problem.  Here are more details about the problem that I looked into further:
+- The costs of printing and distributing is $6.50 per catalog.
+- The average gross margin on all products sold through the catalog is 50%.
+- In p1-mailinglist.xlsx, there are two additional variables:
+  - Score_No: The probability that the customer WILL NOT respond to the catalog and not make a purchase.
+  - Score_Yes: The probability that the customer WILL respond to the catalog and make a purchase.
+
+:cherry_blossom: I used the select tool and the scatterplot tool to see the relations between several variables.
+
+
 
 
