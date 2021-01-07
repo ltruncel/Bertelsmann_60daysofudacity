@@ -337,6 +337,12 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 :cherry_blossom: I used the select tool and the scatterplot tool to see the relations between several variables.
 
+## Day 28 - 1.7.21
+
+:cherry_blossom: I began today's session by reviewing the Score Tool(https://help.alteryx.com/current/designer/score-tool).  
+:cherry_blossom: I learned more about data investigation using the association analysis tool with this [tutorial](https://www.youtube.com/watch?v=7AvidkIPcbY).
+:cherry_blossom: All of these are steps I take in order to further understand the business problem and to further learn about the tools I can use to solve the problem. :smiley: 
+
 
 
 
