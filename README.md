@@ -346,5 +346,8 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: All of these are steps I take in order to further understand the business problem and to further learn about the tools I can use to solve the problem. :smiley: 
 
 
+## Day 29 - 1.8.21
+
+:cherry_blossom: I took a detour today and checked out the course: [Data Scientist in Python](https://www.dataquest.io/path/data-scientist/).  It was fun to review some of the basics in Python.  I look forward to the later units where python intersects with data science.
 
 
