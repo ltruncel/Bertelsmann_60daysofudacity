@@ -361,6 +361,6 @@ I've downloaded and reviewed the data. More to go tomorrow.
 ![D30_avg_no_products_purchased](/images/D30_avg_no_products_purchased.png) 
 
 
-:cherry_blossom: I also attened an informative seminar about building a Flask App using Database. :smiley:
+:cherry_blossom: I also attended an informative seminar about building a Flask App using Database. :smiley:
 
 
