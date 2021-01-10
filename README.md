@@ -351,3 +351,14 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: I took a detour today and checked out the course: [Data Scientist in Python](https://www.dataquest.io/path/data-scientist/).  It was fun to review some of the basics in Python.  I look forward to the later units where python intersects with data science.
 
 
+
+## Day 30 - 1.9.21
+
+:cherry_blossom: I continued with the sales prediction project again.  I looked into relations between a few predictive variables that I believe might affect the target variable (average sales amount) by using the scatterplot tool.  Here are a few samples:
+
+![D30_years_as_customer](/images/D30_years_as_customer.png) 
+
+![D30_avg_no_products_purchased](/images/D30_avg_no_products_purchased.png) 
+
+
+
