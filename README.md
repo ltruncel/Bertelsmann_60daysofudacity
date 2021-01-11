@@ -366,7 +366,7 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ## Day 31 - 1.10.21
 
-:cherry_blossom: Still working on the catalog demand prediction project.  Today I looked into store number and zip code as potentical predictive variables.  Zip codes seem to play a role in predicting the average sales amount while store number doesn't appear to have a big influence on the sales amount.
+:cherry_blossom: Still working on the catalog demand prediction project.  Today I looked into store number and zip code as potential predictive variables.  Zip codes seem to play a role in predicting the average sales amount while store number doesn't appear to have a big influence on the sales amount.
 
 ![D31_zip](/images/D31_zip.png) 
 
