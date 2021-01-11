@@ -354,7 +354,7 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ## Day 30 - 1.9.21
 
-:cherry_blossom: I continued to work on the sales prediction project.  I looked into relations between a few predictive variables that I believe might affect the target variable (average sales amount) by using the scatterplot tool.  Here are a few samples:
+:cherry_blossom: I continued to work on the catalog demand project.  I looked into relations between a few predictive variables that I believe might affect the target variable (average sales amount) by using the scatterplot tool.  Here are a few samples:
 
 ![D30_years_as_customer](/images/D30_years_as_customer.png) 
 
@@ -362,5 +362,21 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 
 :cherry_blossom: I also attended an informative seminar about building a Flask App using Database. :smiley:
+
+
+## Day 31 - 1.10.21
+
+:cherry_blossom: Still working on the catalog demand prediction project.  Today I looked into store number and zip code as potentical predictive variables.  Zip codes seem to play a role in predicting the average sales amount while store number doesn't appear to have a big influence on the sales amount.
+
+![D31_zip](/images/D31_zip.png) 
+
+
+![D31_store_no](/images/D31_store_no.png) 
+
+:cherry_blossom: I also plugged in the linear regression tool to look into the reports. 
+
+![D31_progress](/images/D31_progress.png) 
+
+
 
 
