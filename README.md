@@ -378,5 +378,11 @@ I've downloaded and reviewed the data. More to go tomorrow.
 ![D31_progress](/images/D31_progress.png) 
 
 
+## Day 32 - 1.11.21
 
+:cherry_blossom: Today I looked into the results of the linear regression model.  As I look into p-value to determine the relevance of various predictive variables, I read [this article](https://www.simplypsychology.org/p-value.html).
+
+:cherry_blossom: As shown from the report, customer segment and average number of product purchased are statistically significant (p-value <0.05) while other factors (zip code, store number, and number of years as a customer) are not.  I'll revise my initial hypothesis and my model accordingly.
+
+![D32_linear_regression_report](/images/D32_linear_regression_report.png)
 
