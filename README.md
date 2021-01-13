@@ -386,3 +386,10 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ![D32_linear_regression_report](/images/D32_linear_regression_report.png)
 
+
+
+## Day 33 - 1.12.21
+
+:cherry_blossom: Today I went back to the [Data Scientist in Python course](https://www.dataquest.io/path/data-scientist/). 
+
+:cherry_blossom: I also I read a long report by [Google AI](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html). It's long but I highly recommend it.  
