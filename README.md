@@ -393,3 +393,15 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: Today I went back to the [Data Scientist in Python course](https://www.dataquest.io/path/data-scientist/). 
 
 :cherry_blossom: I also I read a long report by [Google AI](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html). It's long but I highly recommend it.  
+
+
+## Day 34 - 1.13.21
+
+:cherry_blossom: I attended a virtual webinar at the AWS re:invent and learned how Tableau and AWS address analytics infrastructure challenges, and get a behind-the-scenes look at Tableau Public architecture on AWS, including how Tableau and AWS support surges in traffic, and how to securely scale Tableau deployment in the cloud.
+
+![D33_tableau](/images/D33_tableau.png)
+
+:cherry_blossom: I continued to work on the catalog demand prediction project. 
+
+
+
