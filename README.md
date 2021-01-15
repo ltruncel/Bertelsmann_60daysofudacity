@@ -408,7 +408,10 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 :cherry_blossom: I continued with the model and changed predictive variables for the regression model.  The updated model has a much better p-value overall. 
 
-
+![D35_updated_model](/images/D35_updated_model.png)
 
 :cherry_blossom: I completed another webinar by AWS and learned how to prototype, build, and delivery analytics with Dataiku DSS on AWS.
+
+
+![D35_aws_dataiku](/images/D35_aws_dataiku.png)
 
