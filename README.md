@@ -404,4 +404,11 @@ I've downloaded and reviewed the data. More to go tomorrow.
 :cherry_blossom: I continued to work on the catalog demand prediction project. 
 
 
+## Day 35 - 1.14.21
+
+:cherry_blossom: I continued with the model and changed predictive variables for the regression model.  The updated model has a much better p-value overall. 
+
+
+
+:cherry_blossom: I completed another webinar by AWS and learned how to prototype, build, and delivery analytics with Dataiku DSS on AWS.
 
