@@ -418,4 +418,4 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ## Day 36 - 1.15.21
 
-:cherry_blossom: Today I learned to create [visualization for function optimization in Python] (https://machinelearningmastery.com/visualization-for-function-optimization-in-python/). 
+:cherry_blossom: Today I learned to create [visualization for function optimization in Python](https://machinelearningmastery.com/visualization-for-function-optimization-in-python/). 
