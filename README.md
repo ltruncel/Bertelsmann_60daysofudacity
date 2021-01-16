@@ -418,4 +418,8 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ## Day 36 - 1.15.21
 
+:cherry_blossom: I cleaned up the model and all predictive variables look to have good p-values. The adjusted R squared is good too (0.8366).
+
+![D36_final_model](/images/D36_final_model.png)
+
 :cherry_blossom: Today I learned to create [visualization for function optimization in Python](https://machinelearningmastery.com/visualization-for-function-optimization-in-python/). 
