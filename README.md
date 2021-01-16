@@ -422,4 +422,4 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 ![D36_final_model](/images/D36_final_model.png)
 
-:cherry_blossom: Today I learned to create [visualization for function optimization in Python](https://machinelearningmastery.com/visualization-for-function-optimization-in-python/). 
+:cherry_blossom: Today I learned to create [visualization for function optimization in Python](https://machinelearningmastery.com/visualization-for-function-optimization-in-python/). The purpose of visualization is that by observing lower-dimensional functions and algorithm behavior it can help us to develop the intuitions that can carry over to more complex higher-dimensional function optimization problems down the road.  Along the way I also looked at the [mplot3d tutorial](https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html#mpl_toolkits.mplot3d.Axes3D.plot_surface). 3D plots are super cool!
