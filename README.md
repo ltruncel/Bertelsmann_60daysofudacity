@@ -430,9 +430,8 @@ I've downloaded and reviewed the data. More to go tomorrow.
 
 :cherry_blossom: I completed the  of the remainder of thecatalog demand prediction project.  The linear regression I arrived at is 
 
-Y = 303.46 + (-149.36 * Loyalty_Club_Only) + (281.84 * Loyalty_Club_And_Credit_Card) + (-245.42 * Store_Mailing_List) + (66.98 * Avg_Num_Products_Purchased)
+Y = 303.46 + (-149.36 * Loyalty_Club_Only) + (281.84 * Loyalty_Club_And_Credit_Card) + (-245.42 * Store_Mailing_List) + (66.98 * Avg_Num_Products_Purchased) + (0 * Credit_Card_Only) 
 
 I then used the score tool to validate the model to make sure that this works with the other dataset that we were provided with.  (I read this post about the [score tool](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-Score/ta-p/179436) along the way which is helpful.)
-
 
 :cherry_blossom: I also learned techniques to [write unbreakable python](https://jessewarden.com/2020/03/write-unbreakable-python.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200328+prog+nl&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210116+prog+nl&mkt_tok=eyJpIjoiWkRBNU9EZGhZamt3TkRsbSIsInQiOiJyNWdoMzVZWnNXZFpMclpGZ3lLcGV4WDR0N2V1S2pqa3I2YmNweWdiUUlISFRicGQ3b044Q0R5NmV1ZUswTjhZa3o1TFk2U1pqUitXZXRBTmJlRWFxWjl4eW56XC9sUE5wKzRndjV2TDlTemFPYzY3K0JBa2UrUXYrdkxGaG9DUjgifQ%3D%3D).  Here “never break” means the function will always work, will always return a value, won’t ever raise an Exception, nor will it ever exit the Python process. These techniques help with writing Python with no runtime exceptions and therefore does what it’s supposed to do. 
