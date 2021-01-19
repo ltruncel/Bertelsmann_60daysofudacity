@@ -446,12 +446,12 @@ I then used the score tool to validate the model to make sure that this works wi
 
 ## Day 39 - 1.18.21
 
-:cherry_blossom: I learned the basics of using [Snowflake](https://www.snowflake.com/wp-content/uploads/2020/06/Test-Driving-Snowflake.pdf)
+:cherry_blossom: I learned the basics of using [Snowflake](https://www.snowflake.com/wp-content/uploads/2020/06/Test-Driving-Snowflake.pdf).  I'm looking forward to learning more about this cloud data platform tomorrow. 
 
 :cherry_blossom: I began working on a project to optimize an ML pipeline. The first step is to use a python train script and create a dataset which will then be evaluated with logistic regression from scikit learn.
 
 
 ![D39_optimizing_ml_pipeline](/images/D39_optimizing_ml_pipeline.png)
 
-*image credit: Udacity Machine Learning Engineer with Microsoft Azure Nanodegree Program*
+*Image credit: Udacity Machine Learning Engineer with Microsoft Azure Nanodegree Program*
 
