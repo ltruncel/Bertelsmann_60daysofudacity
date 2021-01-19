@@ -453,4 +453,5 @@ I then used the score tool to validate the model to make sure that this works wi
 
 ![D39_optimizing_ml_pipeline](/images/D39_optimizing_ml_pipeline.png)
 
+*image credit: Udacity Machine Learning Engineer with Microsoft Azure Nanodegree Program*
 
