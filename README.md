@@ -455,3 +455,11 @@ I then used the score tool to validate the model to make sure that this works wi
 
 *Image credit: Udacity Machine Learning Engineer with Microsoft Azure Nanodegree Program*
 
+
+
+## Day 40 - 1.19.21
+
+:cherry_blossom: I came across this wonderful site [Bookdown](https://bookdown.org/) which provides info regarding bookdown, an open-source R package that facilitates writing books and long-form articles/reports with R Markdown. 
+
+:cherry_blossom: I then explored [text minding with R](https://github.com/dgrtwo/tidy-text-mining/blob/master/index.Rmd) and went through one of the case studies of [mining NASA emtadata](https://www.tidytextmining.com/nasa.html).
+
