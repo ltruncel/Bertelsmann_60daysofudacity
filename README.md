@@ -463,3 +463,9 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: I then explored [text minding with R](https://github.com/dgrtwo/tidy-text-mining/blob/master/index.Rmd) and went through one of the case studies of [mining NASA emtadata](https://www.tidytextmining.com/nasa.html).
 
+
+## Day 41 - 1.20.21
+
+:cherry_blossom: I wrapped up the final steps of the catalog demand prediction project and thus concluded my foundations course. :celebrate: I'll plan to review it in the coming days.
+
+:cherry_blossom: I learned about [master data](https://www.youtube.com/watch?v=KUX6DDlrtF8). 
