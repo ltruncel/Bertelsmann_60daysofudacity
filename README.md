@@ -469,3 +469,12 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: I wrapped up the final steps of the catalog demand prediction project and thus concluded my foundations course. :celebrate: I'll plan to review it in the coming days.
 
 :cherry_blossom: I learned about [master data](https://www.youtube.com/watch?v=KUX6DDlrtF8). 
+
+
+## Day 42 - 1.21.21
+
+:cherry_blossom: I looked at [the stack that Medium is using](https://stackshare.io/medium/the-stack-that-helped-medium-scale-to-2-6-millennia-of-reading-time).  It uses [DynamoDB](https://stackshare.io/amazon-dynamodb) for its primary datastore and [Redis](https://stackshare.io/redis) cache cluster sitting in front of Dynamo to avoid hotkey issues.  I then read more about the hotkey issues [here](https://medium.engineering/how-medium-detects-hotspots-in-dynamodb-using-elasticsearch-logstash-and-kibana-aaa3d6632cfd
+).
+
+:cherry_blossom: I continue to work on the machine learning pipeline optimization project. 
+
