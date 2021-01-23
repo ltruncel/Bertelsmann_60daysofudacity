@@ -483,6 +483,7 @@ I then used the score tool to validate the model to make sure that this works wi
 ## Day 43 - 1.22.21
 
 :cherry_blossom: I'm still working on the pipeline optimization project.  
+
 :cherry_blossom: Along the way I reviewed helpful concepts such as [uniform distribution](http://cplusplus.com/reference/random/uniform_real_distribution/).  I also reviewed plotting for [Matplotlib](https://scipy-lectures.org/intro/matplotlib/index.html).
 
 
