@@ -500,7 +500,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 ## Day 45 - 1.24.21
 
-:cherry_blossom: I continued to work on the machine learning pipeline optimization project.  
+:cherry_blossom: I reviewed materials from the Study Jam.  I also continued to work on the machine learning pipeline optimization project. 
 
 :cherry_blossom: I read an interesting article about [choosing C Hyperparameter for SVM Classifiers with Scikit-Learn](https://queirozf.com/entries/choosing-c-hyperparameter-for-svm-classifiers-examples-with-scikit-learn)
 
