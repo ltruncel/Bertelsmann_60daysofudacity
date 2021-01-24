@@ -487,3 +487,12 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: Along the way I reviewed helpful concepts such as [uniform distribution](http://cplusplus.com/reference/random/uniform_real_distribution/).  I also reviewed plotting for [Matplotlib](https://scipy-lectures.org/intro/matplotlib/index.html).
 
 
+## Day 44 - 1.23.21
+
+:cherry_blossom: It was a busy, but wonderful day of learning.  I participated in an informative seminar about SQL.
+
+![D44_intro_to_sql](/images/D44_intro_to_sql.png)
+
+:cherry_blossom: In the afternoon, I attended yet another helpful seminar about data literacy.  I also [wrote a post about this on Linkedin](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6758906909673197568" height="511" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>).
+
+![D44_data_literacy_seminar](/images/D44_data_literacy_seminar.png)
