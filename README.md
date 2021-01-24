@@ -493,6 +493,6 @@ I then used the score tool to validate the model to make sure that this works wi
 
 ![D44_intro_to_sql](/images/D44_intro_to_sql.png)
 
-:cherry_blossom: In the afternoon, I attended yet another helpful seminar about data literacy.  I also [wrote a post about this on Linkedin](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6758906909673197568" height="511" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>).
+:cherry_blossom: In the afternoon, I attended yet another helpful seminar about data literacy.  I also [wrote a post about this on Linkedin](https://www.linkedin.com/embed/feed/update/urn:li:share:6758906909673197568).
 
 ![D44_data_literacy_seminar](/images/D44_data_literacy_seminar.png)
