@@ -496,3 +496,11 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: In the afternoon, I attended yet another helpful seminar about data literacy.  I also [wrote a post about this on Linkedin](https://www.linkedin.com/embed/feed/update/urn:li:share:6758906909673197568).
 
 ![D44_data_literacy_seminar](/images/D44_data_literacy_seminar.png)
+
+
+## Day 45 - 1.24.21
+
+:cherry_blossom: I continued to work on the machine learning pipeline optimization project.  
+
+:cherry_blossom: I read an interesting article about [choosing C Hyperparameter for SVM Classifiers with Scikit-Learn]( https://queirozf.com/entries/choosing-c-hyperparameter-for-svm-classifiers-examples-with-scikit-learn)
+
