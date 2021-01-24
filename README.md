@@ -489,7 +489,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 ## Day 44 - 1.23.21
 
-:cherry_blossom: It was a busy, but wonderful day of learning.  I participated in an informative seminar about SQL.
+:cherry_blossom: It was a busy, but wonderful day of learning because of the Study Jam.  I participated in an informative seminar about SQL.
 
 ![D44_intro_to_sql](/images/D44_intro_to_sql.png)
 
