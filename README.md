@@ -504,3 +504,9 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: I read an interesting article about [choosing C Hyperparameter for SVM Classifiers with Scikit-Learn](https://queirozf.com/entries/choosing-c-hyperparameter-for-svm-classifiers-examples-with-scikit-learn)
 
+
+## Day 46 - 1.25.21
+
+:cherry_blossom: It was a long day but I managed to get a little work done on the machine learning pipeline project.  
+
+:cherry_blossom: I began learning more about SQL through this [SQL tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=emb_logo).
