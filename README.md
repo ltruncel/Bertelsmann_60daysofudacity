@@ -510,3 +510,12 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: It was a long day but I managed to get a little work done on the machine learning pipeline project.  
 
 :cherry_blossom: I began learning more about SQL through this [SQL tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=emb_logo).
+
+
+## Day 47 - 1.26.21
+
+:cherry_blossom: I continued with SQL through this [SQL tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=emb_logo).
+
+:cherry_blossom: I also learned about [setting up SQL server in Azure](https://www.daveondata.com/blog/sql-for-excel-users-part-1/).
+
+
