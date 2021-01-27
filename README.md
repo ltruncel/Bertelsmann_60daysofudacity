@@ -525,4 +525,6 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: I went back to the machine learning pipeline project.  
 
-:cherry_blossom: I began the [Azure Data Fundamentals course](https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/2-identify-need-data-solutions).
+:cherry_blossom: I began the [Azure Data Fundamentals course](https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/2-identify-need-data-solutions).  The course began with core concepts, including relational data, JSON, and talked about common data process:
+
+![D48_data_process](/images/D48_data_process.png) <br>
