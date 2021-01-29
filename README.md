@@ -529,3 +529,8 @@ I then used the score tool to validate the model to make sure that this works wi
 ![D48_data_process](/images/D48_data_process.png) <br>
 
 *image credit: Azure Data Fundamentals*
+
+
+## Day 49 - 1.28.21
+
+:cherry_blossom: I continued to work on the machine learning pipeline project. It was slower than I had hoped but I try to keep my spirit up and keep going. 
