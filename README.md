@@ -534,3 +534,10 @@ I then used the score tool to validate the model to make sure that this works wi
 ## Day 49 - 1.28.21
 
 :cherry_blossom: I continued to work on the machine learning pipeline project. It was slower than I had hoped but I tried to keep my spirit up and kept going. 
+
+
+## Day 50 - 1.29.21
+
+:cherry_blossom: I continued to work on the machine learning pipeline project.
+
+:cherry_blossom: I had a look at [Django](https://www.thecoderpedia.com/blog/what-is-django/) and then learned the differences between Django and [Flask](https://www.thecoderpedia.com/blog/django-vs-flask/).
