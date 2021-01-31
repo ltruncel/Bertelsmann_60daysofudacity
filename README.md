@@ -547,6 +547,6 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: Still working on the machine learning pipeline project. 
 
-:cherry_blossom: Thinking about algorithms I read this piece about [algorithms for dating apps](https://www.chicagotribune.com/business/ct-biz-app-dating-algorithms-20181202-story.html), and [how the matching algorithm works in the on-demand economy](https://jungleworks.com/matching-algorithm-works-demand-economy-part-three-user-journey-series/).
+:cherry_blossom: Thinking about algorithms I read this piece about [algorithms for dating apps](https://www.chicagotribune.com/business/ct-biz-app-dating-algorithms-20181202-story.html), and then about [how the matching algorithm works in the on-demand economy](https://jungleworks.com/matching-algorithm-works-demand-economy-part-three-user-journey-series/).
 
 
