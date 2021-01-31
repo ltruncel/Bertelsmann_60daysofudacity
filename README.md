@@ -541,3 +541,12 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: I continued to work on the machine learning pipeline project.
 
 :cherry_blossom: I had a look at [Django](https://www.thecoderpedia.com/blog/what-is-django/) and then learned the differences between Django and [Flask](https://www.thecoderpedia.com/blog/django-vs-flask/).
+
+
+## Day 51 - 1.30.21
+
+:cherry_blossom: Still working on the machine learning pipeline project. 
+
+:cherry_blossom: Thinking about algorithms I read this piece about [algorithms for dating apps](https://www.chicagotribune.com/business/ct-biz-app-dating-algorithms-20181202-story.html), and [how the matching algorithm works in the on-demand economy](https://jungleworks.com/matching-algorithm-works-demand-economy-part-three-user-journey-series/).
+
+
