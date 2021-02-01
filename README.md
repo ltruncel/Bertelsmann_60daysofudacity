@@ -550,3 +550,7 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: Thinking about algorithms I read this piece about [algorithms for dating apps](https://www.chicagotribune.com/business/ct-biz-app-dating-algorithms-20181202-story.html), and then about [how the matching algorithm works in the on-demand economy](https://jungleworks.com/matching-algorithm-works-demand-economy-part-three-user-journey-series/).
 
 
+
+## Day 52 - 1.31.21
+
+:cherry_blossom: I spent most of my time with Azure today, such as [setting up compute target](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-attach-compute-targets).  I also [configured Auto ML in Python](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train).
