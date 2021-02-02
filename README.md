@@ -554,3 +554,12 @@ I then used the score tool to validate the model to make sure that this works wi
 ## Day 52 - 1.31.21
 
 :cherry_blossom: I spent most of my time with Azure today, such as [setting up compute target](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-attach-compute-targets).  I also [configured Auto ML in Python](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train).
+
+
+## Day 53 - 2.1.21
+
+:cherry_blossom: I continued to work on the machine learning pipeline project.  
+
+:cherry_blossom: I participated in our first student leader meeting today and discussed possible initiatives in the next few weeks. :smiley:
+
+
