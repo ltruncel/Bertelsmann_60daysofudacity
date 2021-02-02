@@ -560,7 +560,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: I continued to work on the machine learning pipeline project.  
 
-:cherry_blossom: I signed up for a [data conferrence](https://www.linkedin.com/showcase/datacated-conference/).
+:cherry_blossom: I signed up for a [data conference](https://www.linkedin.com/showcase/datacated-conference/).
 
 :cherry_blossom: I participated in our first student leader meeting today and discussed possible initiatives in the next few weeks. :smiley:
 
