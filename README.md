@@ -565,3 +565,9 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: I participated in our first student leader meeting today and discussed possible initiatives in the next few weeks. :smiley:
 
 
+## Day 54 - 2.2.21
+
+:cherry_blossom: More work on the machine learning pipeline project.
+
+:cherry_blossom: I went throgh a [SWOT analysis of major cloud providers](https://www.gartner.com/doc/reprints?id=1-242R58F3&ct=200902&st=sb).
+
