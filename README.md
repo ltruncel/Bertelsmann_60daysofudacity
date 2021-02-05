@@ -575,7 +575,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 54 - 2.2.21
+## Day 55 - 2.2.21
 
 :cherry_blossom: I ran the code in Azure but returned errors. Revising the the train.py code.
 
@@ -583,7 +583,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 55 - 2.3.21
+## Day 56 - 2.3.21
 
 :cherry_blossom: I continued to explore the [power apps environment](https://powerapps.microsoft.com/en-us/build-powerapps/).
 
