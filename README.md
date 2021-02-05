@@ -591,4 +591,9 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
+## Day 57 - 2.4.21
+
+:cherry_blossom: I continued to work on the machine learning pipeline.
+
+:cherry_blossom: I read a good article about [product development cycle](https://www.michaelseibel.com/blog/product-development-cycle-fundamentals).
 
