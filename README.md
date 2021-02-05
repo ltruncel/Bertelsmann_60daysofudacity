@@ -580,3 +580,15 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: I ran the code in Azure but returned errors. Revising the the train.py code.
 
 :cherry_blossom: I learned about [Microsoft Dataverse](https://powerplatform.microsoft.com/en-us/dataverse/).
+
+
+
+## Day 55 - 2.3.21
+
+:cherry_blossom: I continued to explore the [power apps environment](https://powerapps.microsoft.com/en-us/build-powerapps/).
+
+:cherry_blossom: I continued to work on the machine learning pipeline.
+
+
+
+
