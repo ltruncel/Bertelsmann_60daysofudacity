@@ -575,7 +575,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 55 - 2.2.21
+## Day 55 - 2.3.21
 
 :cherry_blossom: I ran the code in Azure but returned errors. Revising the the train.py code.
 
@@ -583,7 +583,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 56 - 2.3.21
+## Day 56 - 2.4.21
 
 :cherry_blossom: I continued to explore the [power apps environment](https://powerapps.microsoft.com/en-us/build-powerapps/).
 
@@ -591,7 +591,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 57 - 2.4.21
+## Day 57 - 2.5.21
 
 :cherry_blossom: I continued to work on the machine learning pipeline.
 
@@ -599,7 +599,7 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-## Day 58 - 2.5.21
+## Day 58 - 2.6.21
 
 :cherry_blossom: I read an article about [Twitter opening up its tweet archive to academic researchers](https://www.theverge.com/2021/1/26/22250203/twitter-academic-research-public-tweet-archive-free-access).
 
