@@ -608,3 +608,8 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: Still working on the machine learning pipeline project.
 
 
+## Day 59 - 2.7.21
+
+:cherry_blossom: I'm working on the final stage of the machine learning pipeline project.  Almost there!
+
+:cherry_blossom: I read an article about [recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada).
