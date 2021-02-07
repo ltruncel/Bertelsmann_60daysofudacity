@@ -597,3 +597,14 @@ I then used the score tool to validate the model to make sure that this works wi
 
 :cherry_blossom: I read a good article about [product development cycle](https://www.michaelseibel.com/blog/product-development-cycle-fundamentals).
 
+
+
+## Day 58 - 2.5.21
+
+:cherry_blossom: I read an article about [Twitter opening up its tweet archive to academic researchers](https://www.theverge.com/2021/1/26/22250203/twitter-academic-research-public-tweet-archive-free-access).
+
+:cherry_blossom: I read a [summary of CNN](https://robofiedresources.s3.us-east-2.amazonaws.com/CNNs+in+7+Steps.pdf).
+
+:cherry_blossom: Still working on the machine learning pipeline project.
+
+
