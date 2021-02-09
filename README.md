@@ -608,8 +608,21 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: Still working on the machine learning pipeline project.
 
 
+
 ## Day 59 - 2.7.21
 
 :cherry_blossom: I'm working on the final stage of the machine learning pipeline project.  Almost there!
 
 :cherry_blossom: I read an article about [recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada).
+
+
+
+## Day 60 - 2.8.21
+
+:cherry_blossom: Day 60 today! Very happy that I'm finally here. 
+
+:cherry_blossom: Today I continued to work on the pipeline project. 
+
+:cherry_blossom: I went through documentations on [Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/#model-driven-apps).
+
+
