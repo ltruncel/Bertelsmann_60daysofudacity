@@ -626,3 +626,6 @@ I then used the score tool to validate the model to make sure that this works wi
 :cherry_blossom: I went through documentations on [Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/#model-driven-apps).
 
 
+
+![60 Day badge-LauraT](/images/60 Day badge-LauraT.png)
+
