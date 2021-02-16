@@ -627,5 +627,5 @@ I then used the score tool to validate the model to make sure that this works wi
 
 
 
-![60 Day badge-LauraT](/images/60 Day badge-LauraT.png)
+![D60 _badge_LauraT](/images/D60 _badge_LauraT.png)
 
